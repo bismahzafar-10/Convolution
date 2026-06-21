@@ -10,7 +10,7 @@ This repository features the core theoretical concepts, equations, and diverse a
 
 ## 📊 View the Exhibition Poster
 The full, high-resolution research poster can be found here:
-📁 **[View Exhibition Poster (`image_33f63e.jpg`)](./presentation/image_33f63e.jpg)**
+📁 **[View Exhibition Poster (`Convolution.png`)](./Convolution.png)**
 
 ---
 
