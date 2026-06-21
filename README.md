@@ -2,7 +2,7 @@
 ![Topic](https://img.shields.io/badge/Topic-Mathematical%20Analysis-blue)
 ![Field](https://img.shields.io/badge/Field-Signal%20%26%20Image%20Processing-purple)
 ![Domain](https://img.shields.io/badge/Domain-Functional%20Analysis%20-orange)
-![Exhibition](https://img.shields.io/badge/Exhibition-Sapienza%20SURC%202024-red)
+![Exhibition](https://img.shields.io/badge/Exhibition-Sapienza%2024-red)
 
 This repository features the core theoretical concepts, equations, and diverse applied fields of **Convolution and Deconvolution**. This work was curated and presented as an academic poster at **Sapienza, the National Science Day Exhibition (March 2024)** at Mount Carmel College.
 
